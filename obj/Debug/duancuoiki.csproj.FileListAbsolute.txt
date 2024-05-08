@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\duancuoiki\bin\Debug\duancuoiki.exe.config
+C:\Users\Admin\source\repos\duancuoiki\bin\Debug\duancuoiki.exe
+C:\Users\Admin\source\repos\duancuoiki\bin\Debug\duancuoiki.pdb
+C:\Users\Admin\source\repos\duancuoiki\obj\Debug\duancuoiki.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\duancuoiki\obj\Debug\duancuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\duancuoiki\obj\Debug\duancuoiki.exe
+C:\Users\Admin\source\repos\duancuoiki\obj\Debug\duancuoiki.pdb
